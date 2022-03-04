@@ -11,3 +11,5 @@ https://goor.me/6eTWf
 프로젝트 - 실행 - new flask run (또는 그냥 실행 클릭)
 
 실행 시 나오는 링크 https://flask-xyqdt.run.goorm.io/ 접속
+
+※ 오류로 로그인을 해야 제대로 작동이 됩니다.
